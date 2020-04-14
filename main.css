@@ -61,3 +61,9 @@ input[type="text"] {
 	grid-gap: 10px;
 	background-color: #2b2d42;
 }
+
+.tile {
+	text-align: center;
+	line-height: 180px;
+	font-size: 180px;
+}
