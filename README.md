@@ -1,0 +1,2 @@
+# Tic Tac Toe
+This is tic tac toe made with JavaScript, HTML and CSS. It's all client side and once you load the page, you don't need internet access to play it afterwards. You can visit it here:  https://amdrija.github.io/js-tic-tac-toe/.
